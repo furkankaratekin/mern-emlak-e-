@@ -1,0 +1,1 @@
+dotenv kısmı hala düzeltilmedi connect yazdığımız yerden urı'yı çekiyoruz .
